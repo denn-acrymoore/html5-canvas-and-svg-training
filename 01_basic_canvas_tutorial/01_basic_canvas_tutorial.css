@@ -1,0 +1,44 @@
+/* 
+**************************************
+0. CSS Reset
+************************************** 
+*/
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+/* 
+**************************************
+1. Body Styling
+************************************** 
+*/
+
+body {
+  background: #f5f5f5;
+}
+
+/* 
+**************************************
+2. Canvas Styling
+************************************** 
+*/
+.canvas-container {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.main-canvas {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  border: 5px dotted green;
+}
+/* 
+**************************************
+3. Other Content Styling
+************************************** 
+*/
