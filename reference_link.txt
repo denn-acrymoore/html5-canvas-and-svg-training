@@ -1,6 +1,17 @@
+Canvas:
 https://www.w3schools.com/graphics/canvas_intro.asp
 https://www.w3schools.com/graphics/canvas_clock.asp
 https://www.w3schools.com/graphics/game_intro.asp
-
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+https://www.w3schools.com/graphics/canvas_reference.asp
+
+SVG:
+https://www.w3schools.com/graphics/svg_intro.asp
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
+
+Canvas Fit to Window:
+https://www.tutorialspoint.com/HTML5-Canvas-fit-to-window
+
+Resize Observer:
+https://developer.mozilla.org/en-US/docs/Web/API/Resize_Observer_API
+https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver/ResizeObserver
